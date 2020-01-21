@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="DBIT.DatabaseHandler" Collapsed="true">
+    <Position X="1.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACIhABAAACAAAAAQAAAAAEAIACAAAAABAAAAA=</HashCode>
+      <FileName>DatabaseHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.Email" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAgAAEAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Email.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.pgAddTicket" Collapsed="true">
+    <Position X="8.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAEACIAAAAAAACAAAACAAAAACAAAEAAAAABBAA=</HashCode>
+      <FileName>pgAddTicket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.pgAssignTickets" Collapsed="true">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAASAAQCAAgACAAAACAAAIAQAAAAAACAAAAAA=</HashCode>
+      <FileName>pgAssignTickets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.pgFAQ" Collapsed="true">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAAACACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pgFAQ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.pgHelp" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACQABACAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>pgHelp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.pgLogin" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACAgAACAAAAAAAACAAAACAEAASAAAAhAAAABgAAA=</HashCode>
+      <FileName>pgLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.pgMain" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAQAAACAAQEIAAACQAAACAMIACAAABAABIAAkEEA=</HashCode>
+      <FileName>pgMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.pgRegister" Collapsed="true">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAAAAEAACAABACAAEAAAAAAAyAAAAACQA=</HashCode>
+      <FileName>pgRegister.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.pgTicketDetails" Collapsed="true">
+    <Position X="6.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAIAEBiIAACABAACAIAACAAAAAIAAAAAAAAABBAA=</HashCode>
+      <FileName>pgTicketDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.pgTickets" Collapsed="true">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIaEAqCAqAiuRBlBkCMEFxCACAhhBMCQCOHAFAFCAA=</HashCode>
+      <FileName>pgTickets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.pgUserDetails" Collapsed="true">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAACAAAGAAAACAIABCAAAAAIAAAAIAAAAAAAg=</HashCode>
+      <FileName>pgUserDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.pgUsers" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAOAGAAAAKgAgIAAAFCBEAwCAoAEgAIAASMAJEARgAA=</HashCode>
+      <FileName>pgUsers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.Ticket" Collapsed="true">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAQAAAQAAAAAIAABAAAIAAAEAAQAAAACAAAABgA=</HashCode>
+      <FileName>Ticket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBIT.User" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACgAAAAAAAAgQABAAQAAAAAAAAAAgA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

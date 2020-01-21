@@ -1,0 +1,2 @@
+﻿Select *
+From dbo.Users;
